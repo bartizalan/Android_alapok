@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hf_04"
+    namespace = "com.example.listaextra"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.hf_04"
+        applicationId = "com.example.listaextra"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
